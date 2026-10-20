@@ -18,12 +18,6 @@ Características principales de la Forma B
 
 • ¿Para qué se utiliza?: Se emplea como una alternativa de evaluación cuando es necesario evitar el efecto de memoria o el aprendizaje de las respuestas si al sujeto se le evalúa en más de una ocasión, o bien en procesos de investigación, selección de personal y orientación psicológica. [1] (https://es.scribd.com/document/639345112/Untitled), [2] (https://www.docsity.com/es/docs/16-factores-de-personalidad-1/5374320/)
 
-Si necesitas profundizar, indícame:
-
-• ¿Estás preparando un caso clínico o un proceso de selección?
-
-• ¿Te interesa conocer el detalle de alguno de los 16 factores en específico?
-
 ## A cerca del repositorio
 
 La prueba actual es un Excel entregado por sus creadores durante una conferencia a la psicóloga Diana, el mismo sufrió daños durante su uso y actualmente es una versión corregida, mantenida aquí para evitar futuros daños en el archivo local. Sus derechos de autor permanecen correspondiendo a sus creadores originales.
